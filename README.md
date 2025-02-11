@@ -1,6 +1,4 @@
-# Projetos
+# College Projects
 
-## Projetos Faculdade
-
-São projetos realizados em faculdade, como desafios, provas ou trabalhos envolvendo aspectos de programação orientada a objetos e estrutura de dados.
-Alguns códigos são antigos, feitos nos bimestres iniciais da matéria, enquanto outros foram feitos no final. É possível notar isso pela utilização de classes e estrutura de dados.
+These are projects carried out in college, such as challenges, exams, or assignments involving aspects of object-oriented programming and data structures.
+Some codes are older, created during the early semesters of the subject, while others were made later. This can be observed in the use of classes and data structures.
